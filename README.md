@@ -38,15 +38,12 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,docker,aws" />
-    <img src="https://skillicons.dev/icons?i=React,nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,postgreSQL" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,postgresql,linux" /><br>
 </div>
 
 <br/>
 <hr/>
 <br/><br/>
-
-<hr/>
-
 <br/>
 
 <div align="center">
